@@ -1,0 +1,6 @@
+Feature: Check Registration Feature
+   I want a register system So that I can create my account
+
+   Scenario: As a user I can see and click the register button on the navigation bar.
+       Given I am on the register page
+       
